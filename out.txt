@@ -1,0 +1,2 @@
+['.DS_Store', 'del.txt']
+['del the end 2.txt']
